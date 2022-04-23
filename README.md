@@ -1,2 +1,2 @@
 # AI-for-Smart-Cities
-Intelligent solutions for cyber security problems
+Intelligent solutions for samrt cities problems
