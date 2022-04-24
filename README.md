@@ -14,7 +14,7 @@ This project is regarding a binary classification using both classic and ensembl
 
 ## 3. Stochastic Tasks Generation:
 
-generating tasks and user movement events using stochastic algorithm. 
+Generating tasks and user movement events using stochastic algorithm. 
 
 
 
