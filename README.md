@@ -12,6 +12,12 @@ This project is regarding a binary classification using both classic and ensembl
 </p>
 <br>
 
+## 3. Stochastic Tasks Generation:
+
+generating tasks as requirement and user movement events using stochastic algorithm. 
+
+
+
 ## 5. asg5 :
 
 <br>

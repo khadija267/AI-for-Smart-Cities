@@ -1,0 +1,56 @@
+****************************SETUP SIMULATION****************************
+|Days of simulation| = 2
+
+*********************************USERS**********************************
+|Number of users| = 8000
+
+|Minimum travel time| = 20
+|Maximum travel time| = 40
+
+|Number hour simulation| = 12
+|Start minute simulation| = 00
+
+|Finish hour simulation| = 23	
+|Finish minute simulation| = 59
+
+********************************ANTENNAS*********************************
+|Kind of antennas| = WiFi
+|Create random antennas|
+	[1] YES [0] NO = 1
+
+*********************************EVENTS**********************************
+|Use Default list of events|
+ 	[0] YES [1] NO = 1
+
+
+********************************IMPORTANT********************************
+Ray fot the Heatmaps
+
+|Integer value for the ray(meters)| = 50
+
+********************************Statistics********************************
+|Compute metrics: neighbours stability and neighbours contacts|
+
+ 	[1] YES [0] NO = 0
+
+********************************TYPE OF DATA COLLECTION FRAMEWORK********************************
+||||||||||| for  DDF choose : 0	 	PDA choose : 1		PCS choose : 2 ||||||||||||||||||   
+DATA COLLECTION FRAMEWORK= 2
+
+
+
+*********************************BATTERY TRACES**********************************
+|Use Real Battery Traces|
+ 	[0] YES [1] NO = 0
+
+
+
+
+
+*********IMPORTANT******
+You can put 6 days of simulation maximum.
+Hours between: 0 and 23
+Minutes between: 1 and 59
+Travel time, for each user, it is a random number between minimum and maximum value
+Ray: it is preferable a value at least equal to 100 meters
+*************************
