@@ -11,6 +11,12 @@ This project is regarding a binary classification using both classic and ensembl
     <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/2.png?raw=true" width="400" /> 
 </p>
 <br>
+## 2. Network Simulation and Attack Detection:
+
+<p float="center">
+  <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/3.png?raw=true" width="400" /> 
+    <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/4.png?raw=true" width="400" /> 
+</p>
 
 ## 3. Stochastic Tasks Generation:
 
