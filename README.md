@@ -16,5 +16,5 @@ This project is regarding a binary classification using both classic and ensembl
 
 <br>
 <p float="center">
-<img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/2.jpeg?raw=true" width="400" /> 
+<img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/2.jpeg?raw=true" /> 
 </p>
