@@ -15,7 +15,7 @@ This project is regarding a binary classification using both classic and ensembl
 
 <p float="center">
   <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/3.png?raw=true" width="400" /> 
-    <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/4.png?raw=true" width="400" /> 
+    <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/4.png?raw=true" width="300" /> 
 </p>
 
 ## 3. Stochastic Tasks Generation:
