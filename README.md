@@ -10,7 +10,7 @@ This project is regarding a binary classification using both classic and ensembl
     <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/2.png?raw=true" width="400" /> 
 </p>
 <br>
-## 5. asg5:
+## 5. asg5 :
 <br>
 <p float="center">
 
