@@ -15,14 +15,14 @@ This project is regarding a binary classification using both classic and ensembl
 ## 2. Wireless Sensor Network (WSN) :
 Sensors are randomly distributed in a environment. They transmit the temperature, humidity and pressure data to the only controller at regular intervals. The controller processes the received data and gives a predicted value to reflect the parameters of the current environment. 
 <p float="center">
-  <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/5.png?raw=true" width="400" /> 
+  <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/5.png?raw=true"/> 
 </p>
 <br>
 theta is the estimated value of environment parameters (temperature, humidity or pressure).
 
 <p float="center">
 
-    <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/6.png?raw=true" width="400" /> 
+    <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/6.png?raw=true"  /> 
 </p>
 <br>
 ## 3. Network Simulation and Attack Detection:
