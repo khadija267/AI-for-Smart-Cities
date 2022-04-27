@@ -12,7 +12,9 @@ This project is regarding a binary classification using both classic and ensembl
 </p>
 <br>
 
-## 2. Network Simulation and Attack Detection:
+## 2. Wireless Sensor Network (WSN) :
+
+## 3. Network Simulation and Attack Detection:
 Network simulation for both normal and attacker behaviour using contiki-ng simulator.
 Using multi-classification machine learning techniques to distinguis among network behaviour.
 Naive Bayes classifier has performed the best between random forest and adaboost.
@@ -22,7 +24,7 @@ Naive Bayes classifier has performed the best between random forest and adaboost
     <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/4.png?raw=true" width="300" /> 
 </p>
 
-## 3. Stochastic Tasks Generation:
+## 4. Stochastic Tasks Generation:
 
 Generating tasks and user movement events using stochastic algorithm. 
 
