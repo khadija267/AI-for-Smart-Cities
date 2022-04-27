@@ -13,7 +13,10 @@ This project is regarding a binary classification using both classic and ensembl
 <br>
 
 ## 2. Network Simulation and Attack Detection:
-
+Network simulation for both normal and attacker behaviour using contiki-ng simulator.
+Using multi-classification machine learning techniques to distinguis among network behaviour.
+Naive Bayes classifier has performed the best between random forest and adaboost.
+ 
 <p float="center">
   <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/3.png?raw=true" width="400" /> 
     <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/4.png?raw=true" width="300" /> 
