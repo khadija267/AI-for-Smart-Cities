@@ -46,7 +46,7 @@ Generating tasks and user movement events using stochastic algorithm.
 
 <p float="center">
   <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/7.png?raw=true" width="400" /> 
-    <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/8.png?raw=true" width="300" /> 
+    <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/8.png?raw=true" width="400" /> 
 </p>
 
 ## 5. Wifi Topology :
