@@ -44,6 +44,9 @@ Naive Bayes classifier has performed the best between random forest and adaboost
 
 Generating tasks and user movement events using stochastic algorithm. 
 
+<p float="center">
+<img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/7.png?raw=true"  /> 
+</p>
 
 
 ## 5. Wifi Topology :
