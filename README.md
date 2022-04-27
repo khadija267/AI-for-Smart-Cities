@@ -19,7 +19,7 @@ Sensors are randomly distributed in a environment. They transmit the temperature
 </p>
 <br>
 theta is the estimated value of environment parameters (temperature, humidity or pressure).
-
+<br>
 <p float="center">
 
     <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/6.png?raw=true"  /> 
