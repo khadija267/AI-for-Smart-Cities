@@ -25,8 +25,7 @@ Theta is the estimated value of environment parameters (temperature, humidity or
 
 
 <p float="center">
-
-    <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/6.png?raw=true"  /> 
+<img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/6.png?raw=true"  /> 
 </p>
 
 
