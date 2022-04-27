@@ -21,15 +21,15 @@ Sensors are randomly distributed in a environment. They transmit the temperature
 </p>
 <br>
 
-theta is the estimated value of environment parameters (temperature, humidity or pressure).
-<br>
+Theta is the estimated value of environment parameters (temperature, humidity or pressure).
+
 
 <p float="center">
 
     <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/6.png?raw=true"  /> 
 </p>
 
-<br>
+
 
 ## 3. Network Simulation and Attack Detection:
 Network simulation for both normal and attacker behaviour using contiki-ng simulator.
