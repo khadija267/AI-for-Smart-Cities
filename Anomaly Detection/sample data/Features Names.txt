@@ -1,0 +1,19 @@
+Temperature Sensors:
+--------------------
+1- "OBC_TEMP_1 (C)" : Onboard Computer Subsystem Temperature_1 in C 
+2- "OBC_TEMP_2 (C)" : Onboard Computer Subsystem Temperature_2 in C
+3- "COM_TEMP_1 (C)" : Communication Subsystem Temperature_1    in C
+4- "COM_TEMP_2 (C)" : Communication Subsystem Temperature_2    in C
+5- "EPS_TEMP   (C)" : Electrical Power Subsystem Temperature   in C 
+
+Power Sensors:
+--------------
+6-  "BATT_VOLT (V)"  : Battery Volatge      in V 
+7-  "PV_CURR (mA)"   : Photovoltaic current in mA
+8-  "BATT_CURR (mA)" : Battery Current      in mA
+9-  "BATT_MODE"      : Battery Mode (3=NORMAL/charging, 4=FULL)
+10- "PV_VOLT_1 (V)"  : Photovoltaic Volt_1  in V 
+11- "PV_VOLT_2 (V)"  : Photovoltaic Volt_2  in V
+12- "PV_VOLT_3 (V)"  : Photovoltaic Volt_3  in V
+
+  
