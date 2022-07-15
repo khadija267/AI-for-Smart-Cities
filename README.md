@@ -40,7 +40,18 @@ Naive Bayes classifier has performed the best between random forest and adaboost
     <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/4.png?raw=true" width="300" /> 
 </p>
 
-## 4. Stochastic Tasks Generation:
+## 4. Sensing Data Anomaly Detection:
+Anomaly detection using a threshold by which we can classify data with certain interval as an anomaly.<br>
+Algorithms used : K-Means and the One-Class Support Vector.<br>
+<p float="center">
+  <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/9.png?raw=true" width="400" /> 
+</p>
+- Results and comparison:
+We compare the two algorithms trained on anomalies datasets by proportion of anomalies predicted:
+<p float="center">
+  <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/10.png?raw=true" width="400" /> 
+</p>
+## 5. Stochastic Tasks Generation:
 
 Generating tasks and user movement events using stochastic algorithm. 
 
@@ -49,7 +60,7 @@ Generating tasks and user movement events using stochastic algorithm.
     <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/8.png?raw=true" width="400" /> 
 </p>
 
-## 5. Wifi Topology :
+## 6. Wifi Topology :
 
 <br>
 <p float="center">
