@@ -51,6 +51,7 @@ We compare the two algorithms trained on anomalies datasets by proportion of ano
 <p float="center">
   <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/10.png?raw=true" width="400" /> 
 </p>
+
 ## 5. Stochastic Tasks Generation:
 
 Generating tasks and user movement events using stochastic algorithm. 
