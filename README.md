@@ -41,7 +41,10 @@ Naive Bayes classifier has performed the best between random forest and adaboost
 </p>
 
 ## 4. Sensing Data Anomaly Detection:
-Anomaly detection using a threshold by which we can classify data with certain interval as an anomaly.<br>
+Anomaly detection using a threshold by which we can classify data with certain interval as an anomaly.
+Idea: we combine the two data frames predicted to be anomaly data construct a
+data frame of anomalies. We feed 
+<br>
 Algorithms used : K-Means and the One-Class Support Vector.<br>
 <p float="center">
   <img src="https://github.com/khadija267/AI-for-Smart-Cities/blob/main/images/9.png?raw=true" width="400" /> 
